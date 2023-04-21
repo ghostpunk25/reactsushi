@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/reactsushi/static/css/main.e6c13ad2.css",
-    "main.js": "/reactsushi/static/js/main.86caae71.js",
+    "main.js": "/reactsushi/static/js/main.f93a1d62.js",
     "index.html": "/reactsushi/index.html",
     "main.e6c13ad2.css.map": "/reactsushi/static/css/main.e6c13ad2.css.map",
-    "main.86caae71.js.map": "/reactsushi/static/js/main.86caae71.js.map"
+    "main.f93a1d62.js.map": "/reactsushi/static/js/main.f93a1d62.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.86caae71.js"
+    "static/js/main.f93a1d62.js"
   ]
 }
